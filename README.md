@@ -1,18 +1,8 @@
-## Getting Started
+## inicio
+<p> este projeto é feito com base no curso em vídeo, onde a ideia era criar um programa simples utilizando interface e o sistema de herança que há em várias linguagens, o projeto te dar um norte de como funciona o sistema de henraças no java </p>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## redes sociais 
+<p> <a href="https://www.linkedin.com/in/sergiotechenicalti/"> Linkedin </a> </p>
+<h2> developer by : @owtz </h2>
+## tecnologias
+<h2> java </h2>
